@@ -1,2 +1,0 @@
-# BADS7105_CRM_ANALYTICS_AND_INTELLIGENCE
-Customer management
