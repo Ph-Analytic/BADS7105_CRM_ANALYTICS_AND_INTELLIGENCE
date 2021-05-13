@@ -1,5 +1,12 @@
 # CRM ANALYTICS AND INTELLIGENCE
-<table> <tr> <td> :large_blue_circle: </td> <td> Homework 01 – Analysis of customer behaviors </td>  </tr> </table> 
+[![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+![](https://img.shields.io/badge/GoogleBiguery-red.svg)
+[![Tableau Supported](https://img.shields.io/badge/Support%20Level-Tableau%20Supported-53bd92.svg)](https://www.tableau.com/support-levels-it-and-developer-tools)
+![](https://img.shields.io/badge/Tableau-brightgreen.svg)
+![](https://img.shields.io/badge/TableauPrep-blueviolet.svg)
+
+<table> <tr> <td> :large_blue_circle: </td> <td> Homework 01 – Analysis of customer behaviors </td>  <td> </td> </tr> </table> 
 <table> <tr> <td> :large_blue_circle: </td> <td> Homework 02 – Jobs to be done </td> </tr> </table>
 <table> <tr> <td> :large_blue_circle: </td> <td> Homework 03 – Value Proposition </td> </tr> </table>
 <table> <tr> <td> :large_blue_circle: </td> <td> Homework 04 – Customer Journey </td> </tr> </table>
@@ -14,5 +21,3 @@
 
 
 
-https://img.shields.io/badge/theultimatemarkdowncheatsheet-brightgreen.svg
-<img src = " https://img.shields.io/badge/theultimatemarkdowncheatsheet-brightgreen.svg " />
