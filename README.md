@@ -6,6 +6,9 @@
 ![](https://img.shields.io/badge/Tableau-brightgreen.svg)
 ![](https://img.shields.io/badge/TableauPrep-blueviolet.svg)
 
+![alt text](![9814](https://user-images.githubusercontent.com/70945564/118174380-ee1e0a80-b458-11eb-99a7-d00e13a4f131.jpg))
+
+
 <table> <tr> <td> :large_blue_circle: </td> <td> Homework 01 – Analysis of customer behaviors </td>  <td> </td> </tr> </table> 
 <table> <tr> <td> :large_blue_circle: </td> <td> Homework 02 – Jobs to be done </td> </tr> </table>
 <table> <tr> <td> :large_blue_circle: </td> <td> Homework 03 – Value Proposition </td> </tr> </table>
