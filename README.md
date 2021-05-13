@@ -8,7 +8,7 @@
 
 
 
-<table> <tr> <td> :large_blue_circle: </td> <td> Homework 01 – Analysis of customer behaviors </td>  <td> </td> </tr> </table> 
+<table> <tr> <td> :large_blue_circle: </td> <td> Homework 01 – Analysis of customer behaviors </td>  </tr> </table> 
 <table> <tr> <td> :large_blue_circle: </td> <td> Homework 02 – Jobs to be done </td> </tr> </table>
 <table> <tr> <td> :large_blue_circle: </td> <td> Homework 03 – Value Proposition </td> </tr> </table>
 <table> <tr> <td> :large_blue_circle: </td> <td> Homework 04 – Customer Journey </td> </tr> </table>
