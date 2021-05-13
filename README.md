@@ -12,5 +12,7 @@
 <table> <tr> <td> :large_blue_circle: </td> <td> Homework 11 – Voice of Customer </td> </tr> </table>
 <table> <tr> <td> :red_circle: </td> <td> Homework 12 – Design Thinking </td> </tr> </table>
 
+
+
 https://img.shields.io/badge/theultimatemarkdowncheatsheet-brightgreen.svg
-<img src = " https://media.giphy.com/media/qLHzYjlA2FW8g/giphy.gif " />
+<img src = " https://img.shields.io/badge/theultimatemarkdowncheatsheet-brightgreen.svg " />
