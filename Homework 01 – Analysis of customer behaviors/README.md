@@ -3,3 +3,11 @@ Data Visualisation with Tableau Project
 
 Customer behaviors Dashboard
 https://public.tableau.com/profile/ph.analytics
+
+Tableau for Students
+Students can download Tableau Desktop and Tableau Prep for free through Academic Programs >> https://www.tableau.com/academic/students
+
+![image](https://user-images.githubusercontent.com/70945564/118348251-23b71680-b573-11eb-990c-703cd4ce1396.png)
+
+
+
