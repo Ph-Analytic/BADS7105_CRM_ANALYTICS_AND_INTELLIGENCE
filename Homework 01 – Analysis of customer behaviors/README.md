@@ -1,17 +1,17 @@
-Data Visualisation with Tableau Project
+## Data Visualisation with Tableau Project
 [![Tableau Supported](https://img.shields.io/badge/Support%20Level-Tableau%20Supported-53bd92.svg)](https://www.tableau.com/support-levels-it-and-developer-tools)
 ![](https://img.shields.io/badge/Tableau-brightgreen.svg)
 ![](https://img.shields.io/badge/TableauPrep-blueviolet.svg)
 
 
-Customer behaviors Visualization and Analysis  ![](https://img.shields.io/badge/DataVisualization-blueviolet.svg)
+### Customer behaviors Visualization and Analysis  ![](https://img.shields.io/badge/DataVisualization-blueviolet.svg)
 
 https://public.tableau.com/profile/ph.analytics
 
+![image](https://user-images.githubusercontent.com/70945564/118349070-abebea80-b578-11eb-897f-beb278ac0a16.png)
 
 
-
-Get Started 
+#### Get Started 
 
 
 Tableau for Students (free 1 year)
