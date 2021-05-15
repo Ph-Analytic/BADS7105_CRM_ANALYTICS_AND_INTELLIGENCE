@@ -10,6 +10,7 @@ Students can download Tableau Desktop and Tableau Prep for free through Academic
 ![image](https://user-images.githubusercontent.com/70945564/118348251-23b71680-b573-11eb-990c-703cd4ce1396.png)
 
 Tableau Dasktop : Get actionable insights fast
+
 ![image](https://cdnl.tblsft.com/sites/default/files/pages/getinsightsfast.gif)
 
 
