@@ -39,3 +39,5 @@ Some of the features of Tableau Prep includes:
   b. Create calculated fields on a particular data column  (Brithday error year 2021 )
   ![image](https://user-images.githubusercontent.com/70945564/118363859-84b90b80-b5c0-11eb-9689-e821be29af9c.png)
   c. Grouping Group Age range
+  d. Replace
+  e. Pivot data columns to rows and vice versa
