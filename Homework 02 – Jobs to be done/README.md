@@ -11,5 +11,7 @@
 we should also consider its subcomponents as well
 
 Functional job aspects
+
 Emotional job aspects (personal)
+
 Emotional job aspects (social)
