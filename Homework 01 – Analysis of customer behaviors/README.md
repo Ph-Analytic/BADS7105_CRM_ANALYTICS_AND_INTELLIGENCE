@@ -28,8 +28,5 @@ Students can download Tableau Desktop and Tableau Prep for free through Academic
 
 ## Customer behaviors Visualization and Analysis
 
-![3871732](https://user-images.githubusercontent.com/70945564/118348948-c70a2a80-b577-11eb-81bf-d582ce95d840.jpg) 
-
-
 ### Step 1
 Data Cleaning with Tableau Prep
