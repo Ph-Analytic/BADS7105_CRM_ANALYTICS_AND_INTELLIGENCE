@@ -7,6 +7,9 @@ Data Visualisation with Tableau Project
 Customer behaviors Visualization and Analysis
 https://public.tableau.com/profile/ph.analytics
 
+Get Started 
+
+
 Tableau for Students (free 1 year)
 Students can download Tableau Desktop and Tableau Prep for free through Academic Programs >> https://www.tableau.com/academic/students
 
