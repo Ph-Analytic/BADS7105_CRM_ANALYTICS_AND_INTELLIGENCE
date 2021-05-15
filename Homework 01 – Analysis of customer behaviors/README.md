@@ -7,9 +7,7 @@
 ### Customer behaviors Visualization and Analysis  ![](https://img.shields.io/badge/DataVisualization-blueviolet.svg)
 
 https://public.tableau.com/profile/ph.analytics
-
-![image](https://user-images.githubusercontent.com/70945564/118349070-abebea80-b578-11eb-897f-beb278ac0a16.png)
-
+![image](https://user-images.githubusercontent.com/70945564/118357439-70ffac00-b5a4-11eb-86ec-425fc9d712b6.png)
 
 ### Get Started 
 
