@@ -3,8 +3,7 @@
 ![](https://img.shields.io/badge/Tableau-brightgreen.svg)
 ![](https://img.shields.io/badge/TableauPrep-blueviolet.svg)
 
-<div class='tableauPlaceholder' id='viz1498946781860' style='position: relative'><noscript>
-<a href='https:&#47;&#47;www.ryansleeper.com&#47;'><img alt='A Tale of 50 Cities ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;AT&#47;ATaleof50Cities&#47;ATaleof50Cities&#47;1_rss.png' style='border: none' 
+
 
 ### Customer behaviors Visualization and Analysis  ![](https://img.shields.io/badge/DataVisualization-blueviolet.svg)
 
