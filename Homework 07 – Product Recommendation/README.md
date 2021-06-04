@@ -14,3 +14,10 @@ https://public.tableau.com/views/ProductRecommendation_16227335452150/ProductRec
 
 
 ![image](https://user-images.githubusercontent.com/70945564/120670196-63aa5300-c4ba-11eb-898e-8fe836f9c7ac.png)
+
+
+
+Process Clean Data
+
+1.Connect To file Excel :Data set Customer Preference survey
+![One_c](https://user-images.githubusercontent.com/70945564/120832532-f74b5480-c58a-11eb-9a06-183aa03c1e6e.gif)
