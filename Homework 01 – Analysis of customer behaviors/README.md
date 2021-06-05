@@ -6,7 +6,7 @@
 
 ### Customer behaviors Visualization and Analysis  ![](https://img.shields.io/badge/DataVisualization-blueviolet.svg)
 
-https://public.tableau.com/profile/ph.analytics
+https://public.tableau.com/app/profile/ph.analytics/viz/CustomerBehaviorsAnalysis/Dashboard
 ![image](https://user-images.githubusercontent.com/70945564/118357439-70ffac00-b5a4-11eb-86ec-425fc9d712b6.png)
 
 ### Get Started 
