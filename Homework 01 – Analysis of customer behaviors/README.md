@@ -42,4 +42,5 @@ Some of the features of Tableau Prep includes:
   d. Replace
   e. Pivot data columns to rows and vice versa
   
+  calculation correlation
   CORR({INCLUDE [Numberid] : sum([Value])} ,{INCLUDE [Numberid (Data_set1)] : sum([Value (Dara_set2)])} )
