@@ -19,7 +19,7 @@
 <table> <tr> <td> :large_blue_circle: </td> <td> Homework 09 – A/B Testing </td> </tr> </table>
 <table> <tr> <td> :large_blue_circle: </td> <td> Homework 10 – Customer Movement Analysis </td> </tr> </table>
 <table> <tr> <td> :large_blue_circle: </td> <td> Homework 11 – Voice of Customer </td> </tr> </table>
-<table> <tr> <td> :red_circle: </td> <td> Homework 12 – Design Thinking </td> </tr> </table>
+<table> <tr> <td> :large_blue_circle: </td> <td> Homework 12 – Design Thinking </td> </tr> </table>
 
 
 
