@@ -1,4 +1,4 @@
-#DESIGN THINKING
+## DESIGN THINKING
 ![image](https://user-images.githubusercontent.com/70945564/122243938-b3434280-ceee-11eb-8b67-f187bc415326.png)
 
 
