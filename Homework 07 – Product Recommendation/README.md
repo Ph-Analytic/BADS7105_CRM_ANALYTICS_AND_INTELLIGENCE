@@ -17,7 +17,7 @@ https://public.tableau.com/views/ProductRecommendation_16227335452150/ProductRec
 
 
 
-Process Clean Data
+Clean Data in Tableau Prep Builder
 
 ### Connect To file Excel :Data set Customer Preference survey
 ![one](https://user-images.githubusercontent.com/70945564/120835471-8f970880-c58e-11eb-8f72-85a2a5511669.gif)
