@@ -41,6 +41,6 @@ Some of the features of Tableau Prep includes:
   c. Grouping Group Age range
   d. Replace
   e. Pivot data columns to rows and vice versa
-  
-  calculation correlation
+   
+  ### calculation correlation in Tableau
   CORR({INCLUDE [Numberid] : sum([Value])} ,{INCLUDE [Numberid (Data_set1)] : sum([Value (Dara_set2)])} )
