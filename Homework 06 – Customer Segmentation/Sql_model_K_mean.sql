@@ -1,6 +1,6 @@
-SELECT * FROM `psyched-cab-273503.spp_dataset.spp_table` LIMIT 1000
+SELECT * FROM `psyched-cab-273503.sp_dataset.sp_table` LIMIT 1000
 
-CREATE OR REPLACE MODEL`spp_dataset.customer` 
+CREATE OR REPLACE MODEL`sp_dataset.customer` 
 
 OPTIONS(model_type='kmeans',num_clusters=5, kmeans_init_method='kmeans++',max_iterations=50)
 
@@ -12,7 +12,7 @@ AS(
 
     SUM(SPEND)/COUNT(DISTINCT BASKET_ID) AS TICKET_SIZE,
 
-    FROM `psyched-cab-273503.spp_dataset.spp_table`
+    FROM `psyched-cab-273503.sp_dataset.sp_table`
 
     WHERE CUST_CODE IS NOT NULL 
 
